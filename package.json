@@ -1,0 +1,16 @@
+{
+  "name": "plagiarism-detector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "npx jest"
+  },
+  "author": "Faisal Pindar",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
